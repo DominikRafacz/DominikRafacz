@@ -27,8 +27,8 @@ A few words describing me in a random order:
 
 ## What am I working on?
 
-- Developing ![AmyloGraph app](https://amylograph.com/) for browsing amyloid interactions database
-- Developing GUI for ![HaDeX 2.0](https://github.com/hadexversum/HaDeX) 
+- Developing [AmyloGraph app](https://amylograph.com/) for browsing amyloid interactions database
+- Developing GUI for [HaDeX 2.0](https://github.com/hadexversum/HaDeX) 
 - Writing my master's thesis
 - Learning Rust
 
