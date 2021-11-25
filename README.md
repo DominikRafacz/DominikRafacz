@@ -35,7 +35,7 @@ A few words describing me in a random order:
 ## My stats
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikRafacz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikRafacz)
+ ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikRafacz&hide=html,tex,css&langs_count=8&layout=compact)
 
 
 ## Contact me!
