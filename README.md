@@ -30,6 +30,8 @@ A few words describing me in a random order:
 - Developing [AmyloGraph app](https://amylograph.com/) for browsing amyloid interactions database
 - Developing GUI for [HaDeX 2.0](https://github.com/hadexversum/HaDeX) 
 - Writing my master's thesis
+- Enjoying my stay in Copenhagen, at DTU
+- and TA'ing the course there: [R for Bio Data Science](https://github.com/rforbiodatascience22)
 - Learning Rust
 
 ## My stats
