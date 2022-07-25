@@ -27,14 +27,13 @@ A few words describing me in a random order:
 
 ## What am I working on?
 
-- Developing [AmyloGraph app](https://amylograph.com/) for browsing amyloid interactions database
-- Developing GUI for [HaDeX 2.0](https://github.com/hadexversum/HaDeX) 
-- Writing my master's thesis
-- Enjoying my stay in Copenhagen, at DTU
-- and TA'ing the course there: [R for Bio Data Science](https://github.com/rforbiodatascience22)
+- Developing GUI for [HaDeX 2.0](https://github.com/hadexversum/HaDeXGUI) 
+- Writing some open-source R packages for [turtletopia](https://github.com/turtletopia)
+- ... and writing some articles for [the blog](https://turtletopia.github.io/)
+- Finishing my master's thesis
 - Learning Rust
 
-## My stats
+## What funny GitHub stats can I show?
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikRafacz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikRafacz&hide=html,tex,css&langs_count=8&layout=compact)
